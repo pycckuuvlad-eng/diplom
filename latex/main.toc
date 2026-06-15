@@ -1,0 +1,130 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{РЕФЕРАТ}{5}{section*.1}%
+\contentsline {section}{ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{9}{section*.3}%
+\contentsline {section}{ВВЕДЕНИЕ}{11}{section*.4}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{13}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Особенности работы йога-студий и их деятельности}{13}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Проблематика традиционного подхода к управлению записями}{13}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Обоснование необходимости автоматизации процессов}{14}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Структура предметной области и ключевые сущности}{14}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Детальное описание сущности «Пользователь»}{15}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Детальное описание сущности «Занятие»}{15}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Детальное описание сущности «Инструктор»}{15}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Детальное описание сущности «Запись»}{16}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Детальное описание сущности «Отзыв»}{16}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Детальное описание сущности «Прогресс»}{16}{subsubsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.5}Анализ существующих решений в тематике записи на занятия}{16}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Зарубежные платформы}{17}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Региональные и отечественные решения}{18}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Выводы по анализу существующих решений}{18}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Детальное сравнение с аналогами}{19}{subsubsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Анализ целевой аудитории}{22}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Портрет клиента йога-студии}{22}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Портрет администратора йога-студии}{22}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Портрет инструктора}{22}{subsubsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.7}Выводы по разделу}{23}{subsection.1.7}%
+\contentsline {section}{\numberline {2}Техническое задание}{24}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{24}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{24}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к функциональности}{24}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Нефункциональные требования}{25}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к интерфейсу}{26}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Моделирование вариантов использования}{26}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Вариант использования «Регистрация пользователя»}{28}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Вариант использования «Авторизация пользователя»}{28}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Вариант использования «Просмотр каталога занятий»}{29}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}Вариант использования «Фильтрация занятий по городу»}{29}{subsubsection.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.6.5}Вариант использования «Просмотр детальной информации о занятии»}{30}{subsubsection.2.6.5}%
+\contentsline {subsubsection}{\numberline {2.6.6}Вариант использования «Запись на занятие»}{30}{subsubsection.2.6.6}%
+\contentsline {subsubsection}{\numberline {2.6.7}Вариант использования «Отмена записи»}{31}{subsubsection.2.6.7}%
+\contentsline {subsubsection}{\numberline {2.6.8}Вариант использования «Просмотр расписания с календарём»}{31}{subsubsection.2.6.8}%
+\contentsline {subsubsection}{\numberline {2.6.9}Вариант использования «Просмотр списка инструкторов»}{31}{subsubsection.2.6.9}%
+\contentsline {subsubsection}{\numberline {2.6.10}Вариант использования «Редактирование профиля»}{32}{subsubsection.2.6.10}%
+\contentsline {subsubsection}{\numberline {2.6.11}Вариант использования «Просмотр прогресса в виде графиков»}{32}{subsubsection.2.6.11}%
+\contentsline {subsubsection}{\numberline {2.6.12}Вариант использования «Оставление отзыва и рейтинга»}{32}{subsubsection.2.6.12}%
+\contentsline {subsubsection}{\numberline {2.6.13}Вариант использования «Просмотр списка активных записей»}{33}{subsubsection.2.6.13}%
+\contentsline {subsection}{\numberline {2.7}Требования к надёжности}{33}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Требования к информационной безопасности}{34}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Требования к программной и технической совместимости}{34}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Спецификация функциональных требований}{34}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Требования к оформлению документации}{36}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Технический проект}{37}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Архитектура программной системы}{37}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора архитектуры Single Activity}{37}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Сравнение с Multi Activity}{37}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Сравнение с MVVM}{38}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Преимущества выбранной архитектуры}{38}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Обоснование выбора технологий проектирования}{39}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Kotlin как язык программирования}{39}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Android SDK как фреймворк разработки}{40}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}SharedPreferences как способ хранения данных}{40}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Интеграция с MPAndroidChart для построения графиков}{41}{subsubsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.4}Клиентская часть}{41}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Структура Activity и Fragments}{41}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Навигация и пользовательский интерфейс}{41}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Диаграмма компонентов}{42}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Диаграмма классов}{42}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Диаграмма последовательности}{44}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Диаграмма состояний}{44}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Диаграмма взаимодействия фрагментов}{46}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Диаграмма пакетов}{46}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Диаграмма развертывания}{48}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Проект базы данных (SharedPreferences)}{48}{subsection.3.12}%
+\contentsline {subsubsection}{\numberline {3.12.1}Компоненты хранения данных}{48}{subsubsection.3.12.1}%
+\contentsline {subsubsection}{\numberline {3.12.2}ER-модель данных}{49}{subsubsection.3.12.2}%
+\contentsline {subsubsection}{\numberline {3.12.3}Описание структуры ключей хранилища}{49}{subsubsection.3.12.3}%
+\contentsline {subsection}{\numberline {3.13}Надёжность, производительность и масштабирование}{50}{subsection.3.13}%
+\contentsline {subsubsection}{\numberline {3.13.1}Надёжность операций сохранения данных}{50}{subsubsection.3.13.1}%
+\contentsline {subsubsection}{\numberline {3.13.2}Оптимизация загрузки списков}{50}{subsubsection.3.13.2}%
+\contentsline {subsubsection}{\numberline {3.13.3}Потенциал масштабирования}{51}{subsubsection.3.13.3}%
+\contentsline {subsection}{\numberline {3.14}Информационная безопасность технического проекта}{51}{subsection.3.14}%
+\contentsline {subsubsection}{\numberline {3.14.1}Профиль угроз}{51}{subsubsection.3.14.1}%
+\contentsline {subsubsection}{\numberline {3.14.2}Меры защиты}{51}{subsubsection.3.14.2}%
+\contentsline {subsection}{\numberline {3.15}Эксплуатация и развёртывание}{51}{subsection.3.15}%
+\contentsline {subsubsection}{\numberline {3.15.1}Локальное развёртывание}{51}{subsubsection.3.15.1}%
+\contentsline {subsubsection}{\numberline {3.15.2}Конфигурация технических средств}{52}{subsubsection.3.15.2}%
+\contentsline {subsubsection}{\numberline {3.15.3}Требования к устройству}{52}{subsubsection.3.15.3}%
+\contentsline {subsection}{\numberline {3.16}Верификация технического проекта}{52}{subsection.3.16}%
+\contentsline {subsubsection}{\numberline {3.16.1}Функциональная верификация}{52}{subsubsection.3.16.1}%
+\contentsline {subsubsection}{\numberline {3.16.2}Техническая верификация}{52}{subsubsection.3.16.2}%
+\contentsline {subsection}{\numberline {3.17}Выводы по разделу}{53}{subsection.3.17}%
+\contentsline {section}{\numberline {4}Рабочий проект}{54}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Реализация модуля авторизации и регистрации}{54}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Реализация каталога занятий}{55}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Реализация записи на занятие}{55}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Реализация расписания с календарём}{56}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Реализация профиля пользователя}{57}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Реализация системы отзывов и рейтинга}{58}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Реализация статистики и графиков}{59}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Реализация уведомлений и напоминаний}{60}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Детальное описание алгоритмов работы модулей}{60}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Алгоритм регистрации пользователя}{60}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Алгоритм фильтрации занятий по городу}{61}{subsubsection.4.9.2}%
+\contentsline {subsubsection}{\numberline {4.9.3}Алгоритм записи на занятие}{61}{subsubsection.4.9.3}%
+\contentsline {subsubsection}{\numberline {4.9.4}Алгоритм расчёта прогресса и построения графиков}{62}{subsubsection.4.9.4}%
+\contentsline {subsubsection}{\numberline {4.9.5}Алгоритм планирования напоминаний}{62}{subsubsection.4.9.5}%
+\contentsline {subsection}{\numberline {4.10}Интерфейс приложения}{63}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Тестирование приложения}{66}{subsection.4.11}%
+\contentsline {section}{\numberline {5}Тестирование программной системы}{67}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Цели и задачи тестирования}{67}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}План тестирования}{67}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Функциональное тестирование}{67}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Тестирование пользовательского интерфейса}{70}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Тестирование производительности}{71}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Тестирование в условиях ограниченных ресурсов}{72}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Совместимость с версиями Android}{72}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Выявленные дефекты и их устранение}{72}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Выводы по тестированию}{73}{subsection.5.9}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{74}{section*.31}%
+\contentsline {section}{СПИСОК ИСППОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{75}{Item.108}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{79}{section*.33}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Листинги программного кода}{87}{section*.41}%
+\contentsline {subsection}{\numberline {В.1}Модуль авторизации (AuthActivity.kt)}{87}{subsection.C.1}%
+\contentsline {subsection}{\numberline {В.2}Модуль каталога занятий (ClassesFragment.kt)}{88}{subsection.C.2}%
+\contentsline {subsection}{\numberline {В.3}Модуль профиля пользователя (ProfileFragment.kt)}{90}{subsection.C.3}%
+\contentsline {subsection}{\numberline {В.4}Модуль расписания (ScheduleFragment.kt)}{91}{subsection.C.4}%
+\contentsline {subsection}{\numberline {В.5}Модуль отзывов и рейтинга (ReviewFragment.kt)}{93}{subsection.C.5}%
+\contentsline {subsection}{\numberline {В.6}Модуль статистики и графиков (ProgressFragment.kt)}{94}{subsection.C.6}%
+\contentsline {subsection}{\numberline {В.7}Модуль уведомлений (NotificationHelper.kt)}{96}{subsection.C.7}%
+\contentsline {subsection}{\numberline {В.8}Модели данных (Data Models.kt)}{98}{subsection.C.8}%
+\contentsline {subsection}{\numberline {В.9}SharedPreferences Manager (PrefsManager.kt)}{99}{subsection.C.9}%
